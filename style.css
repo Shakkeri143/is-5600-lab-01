@@ -16,8 +16,9 @@ body {
 /* add styles here */
 
 header {
-  background-image: url(images/florence.jpg); /* make sure this file exists in images */
+  background-image: url(images/florence.jpg); 
   background-size: cover;
+  
   width: 100%;
   min-height: 500px;
 }
